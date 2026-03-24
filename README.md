@@ -90,7 +90,8 @@ python main.py
 7. Open the app in your browser:
 
 ```text
-http://127.0.0.1:5000
+http://127.0.0.1:8080/
+
 ```
 
 ## Default Admin Login
