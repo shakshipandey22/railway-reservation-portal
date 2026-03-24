@@ -1,0 +1,18 @@
+RUN THIS FILE TO OPEN THE PROJECT IN BROWSER
+
+1. Open terminal in this folder.
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run this file:
+   python run_server.py
+4. Open browser:
+   http://127.0.0.1:8080
+
+Main browser run file:
+run_server.py
+
+Main Flask app entry:
+main.py
+
+This submission folder already needs a valid .env file.
+If .env is missing, create it from .env.example and fill database values first.
